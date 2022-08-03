@@ -13,10 +13,14 @@
 
 ### 2022/08/02
 
-| content    | target | deadline   |
-| ---------- | ------ | ---------- |
-| running    | 5KM    | 2022/08/02 |
-| codeing    | 500    | 2023/08/02 |
-| deep squat | 40     | 2023/08/02 |
-| push-ups   | 50     | 2023/08/02 |
+| content    | target | deadline   | done |
+| ---------- | ------ | ---------- | ---- |
+| running    | 5KM    | 2022/08/02 | 3KM  |
+| codeing    | 500    | 2023/08/02 | 500  |
+| deep squat | 40     | 2023/08/02 | 60   |
+| push-ups   | 50     | 2023/08/02 | 0    |
+
+
+
+
 
